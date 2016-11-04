@@ -8,7 +8,14 @@ Creatures are living entities that will take place in battles, which will be cov
 Health points. A player is considered dead when they have 0 (or less). Usually can't go above a set maximum.
 * MP  
 Magic points. Allows you to channel magical energies. Spells cast when short on MP have an increased chance to fizzle or backfire.
-* 
+* STRength  
+The measure of a creature's physical power and abilities.
+* DEXterity  
+The measure of a creature's 
+* WISdom  
+* FaiTH  
+* LuCK  
+* SPeeD  
 ### Player
 
 player:
